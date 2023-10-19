@@ -1,1 +1,1 @@
-# python-course
+Embedded APP
